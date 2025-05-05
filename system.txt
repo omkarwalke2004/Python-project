@@ -1,0 +1,5 @@
+2025-02-12 15:00:01 INFO User login successful
+2025-02-12 15:00:03 ERROR Database connection failed
+2025-02-12 15:00:10 DEBUG Debugging issue
+2025-02-12 15:10:15 INFO User logged out
+2025-02-12 15:15:45 ERROR System overload detected
